@@ -1,0 +1,7 @@
+.Modo{
+    position: absolute;
+    top: 20px;
+}
+.Modo:hover{
+    box-shadow:wheat 0 0 10px 1px;
+}
